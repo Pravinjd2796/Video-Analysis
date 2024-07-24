@@ -1,5 +1,5 @@
-flask==3.0.3
-openai-whisper==20231117
-transformers==4.42.4
-moviepy==1.0.3
-torch==2.3.1
+streamlit
+openai-whisper
+transformers
+moviepy
+torch
