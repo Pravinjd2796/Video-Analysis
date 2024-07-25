@@ -39,6 +39,7 @@ To run this application, you need to have the following Python packages installe
 - `transformers`
 - `torch`
 - `numpy`
+- 'plotly'
 
 You can install these packages using pip:
 
