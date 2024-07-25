@@ -21,6 +21,7 @@ To run this application, you need to have the following Python packages installe
 - `whisper` (from OpenAI)
 - `transformers`
 - `torch`
+- 'plotly'
 - `numpy`
 
 You can install these packages using pip:
